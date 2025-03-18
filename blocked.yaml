@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN-SUFFIX,a.ckm.iqiyi.com
+  - DOMAIN-SUFFIX,ads.google.com
+  - DOMAIN-SUFFIX,pagead2.googlesyndication.com
+  - DOMAIN-SUFFIX,adservice.google.com
+  - DOMAIN-SUFFIX,pagead2.googleadservices.com
+  - DOMAIN-SUFFIX,googleadservices.com
+  - DOMAIN-SUFFIX,static.media.net
+  - DOMAIN-SUFFIX,media.net
+  - DOMAIN-SUFFIX,adservetx.media.net
+  - DOMAIN-SUFFIX,doubleclick.net
