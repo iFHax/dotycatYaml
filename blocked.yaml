@@ -9,3 +9,45 @@ payload:
   - DOMAIN-SUFFIX,media.net
   - DOMAIN-SUFFIX,adservetx.media.net
   - DOMAIN-SUFFIX,doubleclick.net
+  
+  # Block specific known adult/pornographic domains
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,redtube.com
+  - DOMAIN-SUFFIX,adultfriendfinder.com
+  - DOMAIN-SUFFIX,xxnx.com
+  - DOMAIN-SUFFIX,porntube.com
+  - DOMAIN-SUFFIX,sex.com
+  - DOMAIN-SUFFIX,xxx.com
+  - DOMAIN-SUFFIX,camwhores.com
+  - DOMAIN-SUFFIX,sexvideos.com
+  
+  # Block domains containing adult-related keywords
+  - DOMAIN-KEYWORD,porn
+  - DOMAIN-KEYWORD,adult
+  - DOMAIN-KEYWORD,xxx
+  - DOMAIN-KEYWORD,sex
+  - DOMAIN-KEYWORD,cam
+  - DOMAIN-KEYWORD,nude
+  - DOMAIN-KEYWORD,sexvideo
+  - DOMAIN-KEYWORD,adultvideo
+  - DOMAIN-KEYWORD,erotic
+  
+  # Block more categories of adult-related sites
+  - DOMAIN-SUFFIX,sexsearch.com
+  - DOMAIN-SUFFIX,porn.com
+  - DOMAIN-SUFFIX,teenporn.com
+  - DOMAIN-SUFFIX,lesbian.com
+  - DOMAIN-SUFFIX,escort.com
+  - DOMAIN-SUFFIX,fetish.com
+  - DOMAIN-SUFFIX,onlyfans.com
+  - DOMAIN-SUFFIX,babe.com
+
+  # Block other known adult ad networks or third-party content related to porn sites
+  - DOMAIN-SUFFIX,ads.pornhub.com
+  - DOMAIN-SUFFIX,ad.doubleclick.net
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,adservice.google.com
+  - DOMAIN-SUFFIX,media.net
+  - DOMAIN-SUFFIX,static.ads.banner.com
+  - DOMAIN-SUFFIX,ad.doubleclick.net
